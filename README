@@ -1,0 +1,9 @@
+This is a very simple library which extends PyRSS2Gen to support generating GeoRSS feeds.  
+
+See http://www.dalkescientific.com/Python/PyRSS2Gen.html
+
+I wrote it to facilitate the creation of a map of New City's 100 Essential Chicago restaurants; I've used it on a couple of other things which aren't published.  So far it seems to work. Feel free to send pull requests if you make improvements.
+
+http://blog.germuska.com/maps/resto100.xml
+(based on data at http://resto.newcity.com/2009/04/07/resto-100-chicagos-essential-restaurants/)
+
